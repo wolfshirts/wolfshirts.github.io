@@ -21,7 +21,7 @@
 title: async afk
 email: ross.russell@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  info||cybersec, programming, and science fiction.
+  (?:info|cyber)sec, programming, and science fiction.
   Thoughts are my own. Ideas are my own. Nothing here represents
   my employer.
 baseurl: "" # the subpath of your site, e.g. /blog
