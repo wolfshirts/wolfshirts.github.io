@@ -28,3 +28,4 @@ At the time of writing the cost of an inexpensive restaurant meal is around 1.67
 There is a large somewhat underground community of discords, telegram channels. In some cases these channels follow a personality, others are focused on specific providers with teams working towards mining on the provider, others are based around selling working tooling for mining.
 
 The communities aligned around a personality are usually based around an individual on platform like YouTube who is creating working configs/projects to mine with. They'll generally create these projects to disseminate to their followers. Most of the followers tend to be less sophisticated and if one of their projects stops working they'll ask the community leader to come up with something new. Since there is a large segment of RCE as a service providers the community leader will usually work on the lowest hanging fruit to get their followers mining again.
+
