@@ -13,3 +13,10 @@ Cryptocurrency is big, and it seems to be even bigger in developing nations. Min
 not everyone wants to front the cost themselves. Sometimes the cost is more than the currency is worth. Luckily for
 cryptominers there's plenty of platforms that offer RCE (remote code execution) as a service, often with a free tier.
 
+Miners will frequently abuse these free tiers. They will run as many tasks as possible, for as long as possible, with the
+largest resource classes possible until caught. This costs companies a lot, and most RCE as a service companies actively combat
+this abuse.
+
+## Is it worth it?
+The first thing people usually ask me when I talk about this is "how much money do they make?".
+
