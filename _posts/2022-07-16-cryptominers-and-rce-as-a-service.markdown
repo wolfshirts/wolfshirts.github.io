@@ -2,7 +2,8 @@
 layout: post
 title:  "Cryptomining and RCE as a Service"
 date:   2022-07-16 12:47:34 -0700
-categories: engineering security threat-actor
+categories: engineering security threats
+author: wolfshirts
 ---
 I just spent a year fighting cryptomining at a CI/CD company. It was definitely an exciting opportunity and I enjoyed the
 time I spent there. I also learned a lot about cryptomining on CI/CD and other RCE as a service type platforms. Some
@@ -18,5 +19,4 @@ largest resource classes possible until caught. This costs companies a lot, and 
 this abuse.
 
 ## Is it worth it?
-The first thing people usually ask me when I talk about this is "how much money do they make?".
-
+The first thing people usually ask me when I talk about this is "how much money do they make?". The answer to this is more nuanced than it initially appears, it's relative. Cryptocurrency is a global phenomenon.
