@@ -20,9 +20,10 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         <nav>
           <ul>
-            <li><a href="/about/">about</a></li>
+            {% for item in site.data.menu %}
+            <li><a class="{% if page.url == item.link %}active{% endif %}" href="{{item.link}}">{{item.title}}</a></li>
+            {% endfor %}
           </ul>
-        </nav>
         <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
