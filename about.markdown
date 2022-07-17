@@ -3,16 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
+![Alt text](assets/computer.jpg "a computer")
+Hi, I'm a security engineer. This is my blog. I enjoy writing code and working in challenging problem spaces. I'm located in the bay area.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In my free time I like to play music, hike, and camp.
