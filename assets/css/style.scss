@@ -32,14 +32,3 @@ h6 {
 body {
     font-family: 'IBM Plex Mono', monospace;
 }
-
-wipeText{
-    white-space: nowrap;
-    overflow: hidden;
-    width: 30em;
-    animation: linearwipe 6s steps(60, end); 
-  }
-  
-  @keyframes linearwipe{ 
-    from { width: 0; } 
-  }  
