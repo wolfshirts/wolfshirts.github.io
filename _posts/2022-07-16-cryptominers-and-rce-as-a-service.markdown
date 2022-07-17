@@ -4,6 +4,7 @@ title:  "Cryptomining and RCE as a Service"
 date:   2022-07-16 12:47:34 -0700
 categories: engineering security threats
 author: wolfshirts
+tags: cryptomining threat retro
 ---
 I just spent a year writing tooling to fight cryptomining at a CI/CD company. It was definitely an exciting opportunity and I enjoyed the time I spent there. I also learned a lot about cryptomining on CI/CD and other RCE as a service type platforms. Some
 of it is fairly obvious and other parts aren't.
